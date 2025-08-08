@@ -10,3 +10,43 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# Ragon News - Breaking News Website
+
+![Ragon News](https://i.postimg.cc/cL9MJzJK/dragon-news.png)
+
+## Project Overview  
+Ragon News is a modern, responsive news website that delivers the latest headlines across various categories. Built to provide users with quick access to breaking news, this project features user authentication and a clean, intuitive UI.
+
+## Live Demo  
+[https://ragon-news-breaking.web.app/category/1](https://ragon-news-breaking.web.app/category/1)
+
+## Main Technologies Used  
+- **JavaScript** (ES6+)  
+- **React.js**  
+- **Tailwind CSS**  
+- **Firebase Authentication**  
+- **React Router**  
+
+## Core Features  
+- Dynamic news listing by category  
+- Responsive design for seamless browsing on all devices  
+- User authentication with Firebase for secure login/signup  
+- Clean UI built with Tailwind CSS for fast loading and great aesthetics  
+- Easy navigation with React Router  
+
+## Dependencies  
+- react  
+- react-dom  
+- react-router-dom  
+- firebase  
+- tailwindcss  
+- @heroicons/react (for icons)  
+
+## Running the Project Locally  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/ragon-news.git
+   cd ragon-news
