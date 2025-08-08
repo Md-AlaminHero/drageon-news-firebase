@@ -23,6 +23,7 @@ Dragon News is a modern, responsive news website that delivers the latest headli
 - Easy navigation with React Router  
 
 ## Dependencies  
-- tailwindcss   
+- tailwindcss
+- firebase  
 
 ## Running the Project Locally  
