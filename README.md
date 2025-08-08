@@ -45,8 +45,3 @@ Dragon News is a modern, responsive news website that delivers the latest headli
 - @heroicons/react (for icons)  
 
 ## Running the Project Locally  
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/ragon-news.git
-   cd ragon-news
