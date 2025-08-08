@@ -12,12 +12,12 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
-# Ragon News - Breaking News Website
+# Dragon News - Breaking News Website
 
-![Ragon News](https://i.postimg.cc/cL9MJzJK/dragon-news.png)
+![Dragon News](https://i.postimg.cc/cL9MJzJK/dragon-news.png)
 
 ## Project Overview  
-Ragon News is a modern, responsive news website that delivers the latest headlines across various categories. Built to provide users with quick access to breaking news, this project features user authentication and a clean, intuitive UI.
+Dragon News is a modern, responsive news website that delivers the latest headlines across various categories. Built to provide users with quick access to breaking news, this project features user authentication and a clean, intuitive UI.
 
 ## Live Demo  
 [https://ragon-news-breaking.web.app/category/1](https://ragon-news-breaking.web.app/category/1)
